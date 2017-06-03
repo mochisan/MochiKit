@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Akihiro Mochida/MochiKit'
+  s.homepage         = 'https://github.com/mochisan/MochiKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Akihiro Mochida' => 'mochida@pictors.co.jp' }
-  s.source           = { :git => 'https://github.com/Akihiro Mochida/MochiKit.git', :tag => s.version.to_s }
+  s.author           = { 'Akihiro Mochida' => 'mhsp0815@gmail.com' }
+  s.source           = { :git => 'https://github.com/mochisan/MochiKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
