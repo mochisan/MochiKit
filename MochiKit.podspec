@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MochiKit'
-  s.version          = '0.2.1'
+  s.version          = '0.2.2'
   s.summary          = 'Util'
   s.homepage         = 'https://github.com/mochisan/MochiKit'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
