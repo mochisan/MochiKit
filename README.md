@@ -1,6 +1,6 @@
 # MochiKit
 
-[![CI Status](http://img.shields.io/travis/Akihiro Mochida/MochiKit.svg?style=flat)](https://travis-ci.org/Akihiro Mochida/MochiKit)
+[![CI Status](http://img.shields.io/travis/mochisan/MochiKit.svg?style=flat)](https://travis-ci.org/mochisan/MochiKit)
 [![Version](https://img.shields.io/cocoapods/v/MochiKit.svg?style=flat)](http://cocoapods.org/pods/MochiKit)
 [![License](https://img.shields.io/cocoapods/l/MochiKit.svg?style=flat)](http://cocoapods.org/pods/MochiKit)
 [![Platform](https://img.shields.io/cocoapods/p/MochiKit.svg?style=flat)](http://cocoapods.org/pods/MochiKit)
