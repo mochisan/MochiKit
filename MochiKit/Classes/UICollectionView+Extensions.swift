@@ -10,11 +10,11 @@ import UIKit
 
 extension UICollectionView {
   public func register<T: UICollectionViewCell>(_ cellType: T.Type) {
-    let nib = UINib(nibName: className, bundle: Bundle.main)
+    let nib = UINib(nibName: cellType.className, bundle: Bundle.main)
     register(nib, forCellWithReuseIdentifier: cellType.className)
   }
   
-  public func dequeue<T: UICollectionViewCell>(_ cellType: T.Type, indexPath: IndexPath) -> T {
-    return dequeueReusableCell(withReuseIdentifier: cellType.className, for: indexPath) as! T
+  public func dequeue<T: UICollectionViewCell>(_ cellType: T.Type, indexPath: IndexPath) -> T? {
+    return dequeueReusableCell(withReuseIdentifier: cellType.className, for: indexPath) as? T
   }
 }
