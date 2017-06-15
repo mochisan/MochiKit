@@ -1,5 +1,5 @@
 PODS:
-  - MochiKit (0.1.0)
+  - MochiKit (0.2.2)
 
 DEPENDENCIES:
   - MochiKit (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MochiKit: 2d5f095babdaac234aad3baf519558e2ec50ed81
+  MochiKit: 16d3644e952f099488097c421846ab7bcd0a333e
 
-PODFILE CHECKSUM: ce34e05df68df2528cc90f3efe102bbc059d5d58
+PODFILE CHECKSUM: ec2cae177e48184de140f00ae4ae0fbaaaf7c0ea
 
-COCOAPODS: 1.2.0
+COCOAPODS: 1.1.1
