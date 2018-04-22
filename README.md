@@ -22,7 +22,7 @@ pod "MochiKit"
 
 ## Author
 
-Akihiro Mochida, mhsp0815@gmail.com
+mochisan
 
 ## License
 
